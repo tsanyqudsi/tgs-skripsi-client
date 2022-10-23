@@ -1,0 +1,33 @@
+{
+  "name": "tugas-akhir-client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios-hooks": "^4.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "evergreen-ui": "^6.10.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@typescript-eslint/eslint-plugin": "^5.40.0",
+    "@typescript-eslint/parser": "^5.40.0",
+    "@vitejs/plugin-react": "^2.1.0",
+    "eslint": "^8.25.0",
+    "eslint-config-xo": "^0.42.0",
+    "eslint-config-xo-typescript": "^0.53.0",
+    "eslint-plugin-react": "^7.31.10",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.4",
+    "vite": "^3.1.0"
+  }
+}
